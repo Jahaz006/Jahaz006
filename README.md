@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 you can reach out to me through WA (03363541646) or on facebook ([Mohammad](https://www.facebook.com/profile.php?id=100043682851209)
 - 😄 Pronouns: Don't belive in this bs but anyways (He/Him)
-- ⚡ Fun fact: Born ❌ Seaborn ✔️
+- ⚡ Fun fact: Born ❌ Seaborn ✔️ Super New to GIT HUB
 
 <!---
 Jahaz006/Jahaz006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
